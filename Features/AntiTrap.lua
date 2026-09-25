@@ -47,7 +47,7 @@ end
 -- ==================================================
 local function DisableAntiTrap()
     AntiTrapEnabled = false
-    print("[ola] Anti Trap: OFF")
+    print("[YOKUDO] Anti Trap: OFF")
 end
 
 -- ==================================================
@@ -64,7 +64,7 @@ end
 -- ==================================================
 -- EXPORT
 -- ==================================================
-_G.ola_AntiTrap = {
+_G.YOKUDO_AntiTrap = {
     Toggle = ToggleAntiTrap,
     Enable = EnableAntiTrap,
     Disable = DisableAntiTrap,
