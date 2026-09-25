@@ -4,12 +4,12 @@
 
 _G.YOKUDO = {
     -- Hub Info
-    Name = "ola | Steal An Egg",
+    Name = "ola | kawat itlog",
     Version = "ig : @nganowhybakit",
     Author = "ola",
 
     -- Asset
-    AssetID = "rbxassetid://81526905178572",
+    AssetID = "rbxassetid://101352576986760",
 
     -- UI
     UI = {
